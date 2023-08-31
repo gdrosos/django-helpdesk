@@ -8,6 +8,7 @@ markdown
 beautifulsoup4
 lxml
 pytz
+simplejson
 six
 djangorestframework
 django-model-utils
